@@ -1,0 +1,6 @@
+01-do-not-use-java-in-urlget.patch
+02-msgfmt-remove-pot-creation-date.patch
+03-avoid-extraneous-nul-bytes.patch
+04-fix-msgunfmt-heap-corruption.patch
+05-fix-crash-xgettext-with-its.patch
+06-java9-support.patch
