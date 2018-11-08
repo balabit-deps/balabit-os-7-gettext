@@ -4,3 +4,4 @@
 04-fix-msgunfmt-heap-corruption.patch
 05-fix-crash-xgettext-with-its.patch
 06-java9-support.patch
+CVE-2018-18751.patch
