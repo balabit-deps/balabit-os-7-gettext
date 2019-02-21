@@ -1,3 +1,12 @@
+gettext (0.19.8.1-6ubuntu0.3) bionic; urgency=medium
+
+  * Fix FTBFS with Java 11, by applying Java related patches from
+    upstream git (gnulib). Thanks to Emmanuel Bourg <ebourg@apache.org>
+    for the report and Bruno Haible <bruno@clisp.org> for the fix.
+    Closes: #910246. LP: #1814133.
+
+ -- Matthias Klose <doko@ubuntu.com>  Thu, 21 Feb 2019 15:40:49 +0100
+
 gettext (0.19.8.1-6ubuntu0.1) bionic-security; urgency=medium
 
   * SECURITY UPDATE: Invalid free

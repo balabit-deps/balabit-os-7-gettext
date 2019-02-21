@@ -5,3 +5,5 @@
 05-fix-crash-xgettext-with-its.patch
 06-java9-support.patch
 CVE-2018-18751.patch
+07-java11-support.patch
+08-java-future-support.patch
